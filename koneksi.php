@@ -6,7 +6,7 @@ $host     = getenv('MYSQLHOST') ?: "mysql.railway.internal";
 $port     = getenv('MYSQLPORT') ?: "3306"; 
 $dbname   = getenv('MYSQLDATABASE') ?: "railway";                               
 $username = getenv('MYSQLUSER') ?: "root";                                  
-$password = getenv('MYSQLPASSWORD') ?: "aUgTGsgPKYlNLMQkuMoAkUPvxHPgvhGY"; 
+$password = getenv('MYSQLPASSWORD') ?: "qbwgyLhREkhOHVWIXnqCWrAxkTrynrsJ"; 
 
 // Membuat koneksi
 try {
